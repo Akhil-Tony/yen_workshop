@@ -1,0 +1,4 @@
+python=3.8.8
+opencv-python
+tensorflow
+mediapipe
